@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Trackyourmoney.id",
+    "imageSrc": "projects/TrackYourMoney.png",
+    "skills": ["Bootstrap", "PHP", "MySql"],
+    "demo": "https://trackyourmoney.000webhostapp.com/",
+    "source": "https://github.com/Ydla-chan/TrackYourMoney.Id"
+  },
+  {
+    "title": "Uniqlo Clonning",
+    "imageSrc": "projects/Clonning-uniqlo.png",
+    "skills": ["Tailwind", "React.js", "Node.js", "Express.js"],
+    "demo": "https://clonning-uniqlo.netlify.app/",
+    "source": "https://github.com/revanzanrndra/final-projects-frontend-HSBC1"
+  }
+
+]

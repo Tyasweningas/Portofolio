@@ -1,0 +1,21 @@
+[
+  {
+    "role": "Frontend Virtual Internship",
+    "organisation": "Rakamin X Core Initiative",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Built an e-commerce website using vue.js", "Applied jest as unit testing"],
+    "imageSrc": "history/microsoft.png"
+  },
+  
+  {
+    "role": "FullStack Developer Student",
+    "organisation": "Harisenin.com",
+    "startDate": "July, 2023",
+    "endDate": "December, 2023",
+    "experiences": [ 
+    "Created several small projects using HTML, CSS, JavaScript, React.js, and Node.js",
+     "Built a cloning website for Uniqlo with team members."],
+    "imageSrc": ""
+  }
+]
